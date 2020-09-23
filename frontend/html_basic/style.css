@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+h1 {
+    font-weight: 800;
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
+
+p {
+    font-size: xx-large;
+    
+}
+
+body {
+    font-weight: 800;
+    font-family: Roboto Mono, monospace;
+    max-width: 500px;
+    margin: auto;
+}
+
+
+
+
+.name {
+    color: red;
+    font-style: italic;
+}
+
+#cat {
+    max-width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow:10px 10px 5px grey;
+}
+
